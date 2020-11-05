@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace QDP.Entity
+namespace QDP.BLL
 {
     public class Class1
     {
